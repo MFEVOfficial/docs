@@ -25,7 +25,6 @@
 * [Things you can do on MFEV Blockchain](general/things-you-can-do-on-MFEV/README.md)
   * [Interacting with the MFEV Blockchain](general/things-you-can-do-on-mfev/interacting-with-the-mfev-blockchain.md)
   * [MFEV Blockchain Ecosystem](general/things-you-can-do-on-MFEV/MFEV-ecosystem.md)
-  * [Community](general/things-you-can-do-on-MFEV/community.md)
   * [Grants and Bounties](general/things-you-can-do-on-MFEV/grants-and-bounties.md)
 * [MFEV Blockchain Mobile Infrastructure Use Cases](general/use-cases.md)
 

@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/MEDIABLOCKAI/validator-setup](https://github.com/MEDIABLOCKAI/validator-setup)
+Read more at: [https://github.com/MFEVOfficial/Become-Validator](https://github.com/MFEVOfficial/Become-Validator)
