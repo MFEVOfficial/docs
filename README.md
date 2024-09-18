@@ -8,9 +8,4 @@ Welcome to the go-to portal for in-depth information about the MFEV Blockchain (
 
 **MFEV Blockchain Docs**. This part is available in the sections below is for anyone who wants to learn more about MFEV Blockchain without going into detail that only developers would usually need to know.
 
-{% hint style="info" %}
-Join our [Telegram group](https://t.me/mediablock\_official)\
-Or say hello at: hello@mediablock.ai
-{% endhint %}
-
 \#� �d�o�c�s� � �
