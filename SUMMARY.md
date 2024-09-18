@@ -49,11 +49,7 @@
 
 ## Links
 
-* [Discord](https://discord.com/invite/WUgCfBmt)
-* [Facebook](<README (1).md>)
-* [GitHub](https://github.com/MEDIABLOCKAI)
-* [LinkedIn](<README (1).md>)
-* [Medium](<README (1).md>)
-* [Telegram](https://t.me/mediablock\_official)
-* [Twitter](https://twitter.com/i/flow/login?redirect\_after\_login=%2Fmblock\_official)
-* [YouTube](<README (1).md>)
+* [GitHub](https://github.com/MFEVOfficial)
+* [LinkedIn](https://www.linkedin.com/company/mfev-official/?viewAsMember=true)
+* [Telegram](https://t.me/mfev\_official)
+* [YouTube](https://www.youtube.com/@MFEV.official)
