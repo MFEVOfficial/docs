@@ -14,13 +14,13 @@ At the same time, even in the poorest countries, the pace of mobile phone adopti
 
 In addition to this, the rise of blockchain technology and cryptocurrencies has finally created the possibility for potentially anyone on the planet to send and receive funds without the permission of any entity, using currencies that cannot be manipulated.
 
-### What the crypto industry still lacks
+### What the crypto industry still lacks?
 
 However, while we are observing a lot of activity in the crypto space (especially in the crypto asset markets, and the DeFi and NFT sectors), genuine mass adoption of crypto payments and DeFi is still not there.
 
 The currently available products and tools, with their complicated and disparate UX, are mostly geared towards sophisticated crypto users with significant financial means.
 
-### How we go about it
+### How we go about it?
 
 Our approach to bringing crypto payments and DeFi to the masses primarily consists in empowering other projects, businesses, organizations and communities to adopt crypto payments and decentralized finance (DeFi).
 
@@ -34,4 +34,4 @@ The MFEV Network Coin platform has three main components:
 
 2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases.
 
-3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \\
+3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform.&#x20;

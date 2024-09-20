@@ -3,8 +3,8 @@
 The following information will help you discover and connect to the MFEV Network Coin blockchain:
 
 * Network name: **MFEV Network**
-* ChanId: 9982
-* Gas price: \*\*\*\*
+* Chan Id: 9982
+* Gas price: 109.999999 GWEI
 * RPC
   * official RPC: [https://rpc.mfevscan.com/](discovering-the-network.md)
-* Explorer: \[https://mfevscan.com])
+* Explorer: https://mfevscan.com
