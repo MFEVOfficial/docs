@@ -1,4 +1,4 @@
-# MFEV Network Coin Mainnet
+# MFEV Blockchain Mainnet
 
 ### General Information
 
@@ -6,12 +6,12 @@
 | ---------- | ----------- | --------------- | -------- | ------------ | ---------- |
 | 20,000,000 | 3 seconds   | 1500000700 GWei |          | MFEV         | 9982       |
 
-- D: **MFEV Coin (MFEV)**
-- ChanId: **9982**
-- Gas price: **1500000700 gwei**
-- RPC
-  - official RPC: [https://rpc.mfevscan.com/](https://rpc.mfevscan.com/)​
-- Explorer: [https://mfevscan.com/](https://mfevscan.com/)​
+* D: **MFEV Coin (MFEV)**
+* ChanId: **9982**
+* Gas price: 109.999999 **gwei**
+* RPC
+  * official RPC: [https://rpc.mfevscan.com/](https://rpc.mfevscan.com/)​
+* Explorer: [https://mfevscan.com/](https://mfevscan.com/)​
 
 ### Blockchain explorer
 

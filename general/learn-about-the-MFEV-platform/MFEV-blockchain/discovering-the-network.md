@@ -4,7 +4,7 @@ The following information will help you discover and connect to the MFEV Network
 
 * Network name: **MFEV Network**
 * Chan Id: 9982
-* Gas price: 109.999999 GWEI
+* Gas price: 109.999999 gwei
 * RPC
   * official RPC: [https://rpc.mfevscan.com/](discovering-the-network.md)
 * Explorer: https://mfevscan.com
