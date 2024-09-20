@@ -10,7 +10,7 @@ The MFEV Network Coin is the native currency of the MFEV Network blockchain and 
 * **Staking (for delegators)** Any MFEV Network holder can choose one or more validators to delegate any amount of MFEV Network they wish. They receive a share of the MFEV Network Coin block rewards proportionate to the share of their stake in the total stake, minus the minimum 10% fee paid to the validator(s).
 * **Payments** As MFEV Coin is the native currency on MFEV Network , sending it does not require interactions with smart contracts. Thus, MFEV Network transfers are potentially faster and less costly in terms of transaction fees.
 
-**IMPORTANT**: Merely possessing any amount of MFEV Network tokens does not endow holders with any rights to participate in the governance of the MFEV Network Coin platform or any revenue streams related to its real-world performance.
+**IMPORTANT**: Merely possessing any amount of MFEV Coins does not endow holders with any rights to participate in the governance of the MFEV Network Coin platform or any revenue streams related to its real-world performance.
 
 
 
