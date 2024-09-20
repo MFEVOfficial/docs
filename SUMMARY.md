@@ -15,9 +15,7 @@
   * [Interoperability](general/learn-about-the-MFEV-platform/interoperability.md)
   * [MFEV Blockchain Governance and Development](general/learn-about-the-MFEV-platform/MFEV-governance-and-development/README.md)
     * [MFEV Blockchain Improvement Proposals (FIPs)](general/learn-about-the-MFEV-platform/MFEV-governance-and-development/fips.md)
-  * [Wallets supporting MFEV Blockchain](general/learn-about-the-mfev-platform/wallets-supporting-mfev-blockchain.md)
 * [MFEV Blockchain for Business](general/MFEV-for-business.md)
-* [MFEV Blockchain Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>
 

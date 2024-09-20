@@ -1,2 +1,0 @@
-# Wallets supporting MFEV Blockchain
-
