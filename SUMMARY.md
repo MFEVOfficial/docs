@@ -35,6 +35,7 @@
   * [End-of-Cycle Flow](general-1/MFEV-consensus/end-of-cycle-flow.md)
   * [Contract Addresses](general-1/MFEV-consensus/contract-addresses.md)
 * [How to run network nodes](general-1/how-to-run-network-nodes.md)
+* [Page](general-1/page.md)
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [WalletConnect on MFEV Blockchain](general-1/resources-and-tools/walletconnect-on-mfev-blockchain.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
