@@ -1,9 +1,9 @@
-# Learn about the MFEV Network Coin Platform
+# Learn about the MFEV Blockchain Platform
 
-MFEV Network Coin is a decentralized payments-focused platform powered underneath by the fast and low-cost MFEV Network Coin blockchain.&#x20;
+MFEV Network  is a decentralized payments-focused platform powered underneath by the fast and low-cost MFEV Network blockchain.
 
 In this section, you will be able to learn more about:
 
-- the vision and strategy behind the platform and its main components
-- how the MFEV Network Coin blockchain works, its native MFEV Network token and its governance and development
-- how MFEV Network Coin is connected to other major chains
+* the vision and strategy behind the platform and its main components
+* how the MFEV Network  blockchain works, its native MFEV Network Coin and its governance and development
+* how MFEV Network  is connected to other major chains
