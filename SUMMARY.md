@@ -17,10 +17,6 @@
     * [MFEV Blockchain Improvement Proposals (FIPs)](general/learn-about-the-MFEV-platform/MFEV-governance-and-development/fips.md)
   * [Wallets supporting MFEV Blockchain](general/learn-about-the-mfev-platform/wallets-supporting-mfev-blockchain.md)
 * [MFEV Blockchain for Business](general/MFEV-for-business.md)
-* [Things you can do on MFEV Blockchain](general/things-you-can-do-on-MFEV/README.md)
-  * [Interacting with the MFEV Blockchain](general/things-you-can-do-on-mfev/interacting-with-the-mfev-blockchain.md)
-  * [MFEV Blockchain Ecosystem](general/things-you-can-do-on-MFEV/MFEV-ecosystem.md)
-  * [Grants and Bounties](general/things-you-can-do-on-MFEV/grants-and-bounties.md)
 * [MFEV Blockchain Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>
