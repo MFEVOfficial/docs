@@ -13,7 +13,7 @@ Hence, interoperability solutions enabling transfers between MFEV Network Coin a
 
 The MFEV Network Coin team has been making considerable progress in getting MFEV Network Coin added by the leading operators. Currently the MFEV Network Coin blockchain is connected to other blockchains via the following multichain bridges and value transfer protocols:
 
-1\) Summary 2) The Elk Finance value transfer protool.
+1\) Summary 2) The Elk Finance value transfer protocol.
 
 3\) The Connext bridge (available to users via the xPollinate interface).
 
