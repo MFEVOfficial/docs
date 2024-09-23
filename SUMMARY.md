@@ -23,7 +23,6 @@
   * [MFEV Blockchain Mainnet](general-1/network-details/MFEV-network-mainnet.md)
   * [MFEV Blockchain Testnet](general-1/network-details/MFEV-testnet.md)
 * [MFEV Blockchain Consensus](general-1/MFEV-consensus/README.md)
-  * [Contracts Overview](general-1/MFEV-consensus/contracts-overview.md)
   * [Stake, Delegate and Withdraw](general-1/MFEV-consensus/stake-delegate-and-withdraw.md)
   * [End-of-Cycle Flow](general-1/MFEV-consensus/end-of-cycle-flow.md)
   * [Contract Addresses](general-1/MFEV-consensus/contract-addresses.md)

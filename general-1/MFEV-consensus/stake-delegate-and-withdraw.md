@@ -19,8 +19,8 @@ MFEV Coin holders who don't want to run a node by themselves but still wish to p
 
 Both stakers and validators can withdraw their MFEV Coin, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the MFEV Network chain validators list.There are two options to withdraw:
 
-1. 1.Call the \`withdraw\` function on the consensus contract (0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2) with one parameter - the amount to withdraw. This call is for stakers, and will reduce the stake amount of the sender address.
-2. 2.Call the \`withdraw\` function on the consensus contract (0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2) with two parameters - validator address and amount to withdraw. This call is for both stakers (who can use their own address as the parameter) and for delegators to withdraw their delegated stake on a specific validator.
+1. Call the \`withdraw\` function on the consensus contract (0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2) with one parameter - the amount to withdraw. This call is for stakers, and will reduce the stake amount of the sender address.
+2. Call the \`withdraw\` function on the consensus contract (0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2) with two parameters - validator address and amount to withdraw. This call is for both stakers (who can use their own address as the parameter) and for delegators to withdraw their delegated stake on a specific validator.
 
 ![withdraw option no. 1](https://3886961007-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MQROvzQPC4eD8u5AQhv%2Fuploads%2FyBpFV4W9N9vgpGyFEr76%2Fimage.png?alt=media\&token=0f715110-4b8d-4a35-81a6-93383d903f42)
 
