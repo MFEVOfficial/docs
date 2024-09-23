@@ -2,7 +2,7 @@
 
 MFEV Network Coin is already a significantly decentralized platform and plans are in motion to achieve full community control over it in the future. Its governance is currently split among the following actors:
 
-1\) **Network Validators.** . Currently, every validator has one vote regardless of their share of the overall network stake but this is likely to change soon.
+1\) **Network Validators.** Currently, every validator has one vote regardless of their share of the overall network stake but this is likely to change soon.
 
 2\) **MFEV Network Coin Foundation and the project team**. Like most public blockchain projects at the initial stage of development, the development of the core network protocol and the MFEV Network Coin treasury that mostly consists of the undistributed genesis.
 

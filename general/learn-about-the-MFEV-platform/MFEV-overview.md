@@ -6,7 +6,13 @@ MFEV Network is a decentralized blockchain-powered platform and technology stack
 
 ### The Problem
 
-Blockchain technology aims to revolutionize traditional systems by replacing centralized authorities with a decentralized Network that fosters trust among users, even those who have no previous connections. At its core, Blockchain seeks to shift from traditional trust mechanisms to a system that enforces integrity through its design. However, applying Blockchain technology in real-world scenarios comes with challenges, notably in transaction speed. Unlike conventional systems such as Visa card payments, which rely on Visa to create and maintain a permanent transaction record, Blockchain operates with a "distributed ledger" shared among multiple participants. This ledger provides a permanent and widely accessible record, enhancing transparency and accountability, as anyone with the necessary technology and internet access can verify the system. Despite its advantages, the decentralized nature of Blockchain can result in slower transaction processing. For instance, early Blockchains like Bitcoin handle about 5 transactions per second, significantly less than Visa's capacity to process over 1,700 transactions per second. Addressing these challenges requires tackling the Blockchain scalability trilemma. This trilemma illustrates the difficulty of balancing decentralization, security, and scalability, with each factor often necessitating compromises.
+Blockchain technology aims to revolutionize traditional systems by replacing centralized authorities with a decentralized Network that fosters trust among users, even those who have no previous connections. At its core, Blockchain seeks to shift from traditional trust mechanisms to a system that enforces integrity through its design.&#x20;
+
+However, applying Blockchain technology in real-world scenarios comes with challenges, notably in transaction speed. Unlike conventional systems such as Visa card payments, which rely on Visa to create and maintain a permanent transaction record, Blockchain operates with a "distributed ledger" shared among multiple participants. This ledger provides a permanent and widely accessible record, enhancing transparency and accountability, as anyone with the necessary technology and internet access can verify the system.&#x20;
+
+Despite its advantages, the decentralized nature of Blockchain can result in slower transaction processing. For instance, early Blockchains like Bitcoin handle about 5 transactions per second, significantly less than Visa's capacity to process over 1,700 transactions per second.
+
+&#x20;Addressing these challenges requires tackling the **Blockchain scalability trilemma**. This trilemma illustrates the difficulty of balancing **decentralization**, **security, and scalability**, with each factor often necessitating compromises.
 
 ### What the crypto industry still lacks?
 
