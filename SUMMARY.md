@@ -5,7 +5,7 @@
 ## DOCUMENTATION <a href="#general" id="general"></a>
 
 * [Learn about the MFEV Blockchain Platform](general/learn-about-the-MFEV-platform/README.md)
-  * [MFEV Blockchain Overview: vision, strategy and platform components](general/learn-about-the-MFEV-platform/MFEV-overview.md)
+  * [MFEV Blockchain Overview: Vision, Strategy and Platform components](general/learn-about-the-MFEV-platform/MFEV-overview.md)
   * [The MFEV Blockchain](general/learn-about-the-MFEV-platform/MFEV-blockchain/README.md)
     * [Discovering the Network](general/learn-about-the-MFEV-platform/MFEV-blockchain/discovering-the-network.md)
     * [Delegation through Staking with Validators](general/learn-about-the-MFEV-platform/MFEV-blockchain/validators-and-delegation.md)
