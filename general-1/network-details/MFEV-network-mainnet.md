@@ -10,7 +10,7 @@
 * ChanId: **9982**
 * Gas price: 109.999999 **gwei**
 * RPC
-  * official RPC: [https://rpc.mfevscan.com/](https://rpc.mfevscan.com/)​
+  * Official RPC: [https://rpc.mfevscan.com/](https://rpc.mfevscan.com/)​
 * Explorer: [https://mfevscan.com/](https://mfevscan.com/)​
 
 ### Blockchain explorer

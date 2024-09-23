@@ -6,4 +6,4 @@ The DAG model, operating on a cyclical basis, enhances scalability as the Networ
 
 In this framework, the state—including account and transaction records, transaction processing, and consensus achievement (if required)—is distributed across multiple nodes. This decentralized approach eliminates the need for global consensus, as each shard operates independently.
 
-&#x20;While Ethereum has successfully implemented this model, MFEV improves it by introducing an updated fork of Ethereum. This integration allows MFEV to leverage the advantages of this approach. As more independent validators are MFEV WHITEPAPER 2 3 23 gradually deployed to the MFEV Blockchain, the Network's security and decentralization will be further enhanced
+&#x20;While Ethereum has successfully implemented this model, MFEV improves it by introducing an updated fork of Ethereum. This integration allows MFEV to leverage the advantages of this approach. As more independent validators are MFEV WHITEPAPER  gradually deployed to the MFEV Blockchain, the Network's security and decentralization will be further enhanced
