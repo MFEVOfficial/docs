@@ -20,9 +20,7 @@ The snapshots are taken of pending validators, who are those which staked more t
 
 Stake amount for a validator is the sum of staked and delegated amount to it's address.
 
-This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
-
-minimum stake amount = 100,000 MFEV Network Coin token
+minimum stake amount = 100,000 MFEV  Coin&#x20;
 
 cycle duration blocks = 57600 (approximately 2 days)
 
@@ -30,9 +28,7 @@ cycle duration blocks = 57600 (approximately 2 days)
 
 This contract is responsible for generating and distributing block rewards to the network validators according to the network specs (5% yearly inflation).
 
-Another role of this contract is to call the snapshot/cycle logic on the Consensus contract
-
-This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
+Another role of this contract is to call the snapshot/cycle logic on the Consensus contract.
 
 ## [Voting - ](./)0xEe904A74b1484eBB1339C0aA0328B96A7CCa5A80
 
