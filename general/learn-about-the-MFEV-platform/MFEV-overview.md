@@ -24,7 +24,7 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 The MFEV Network Coin platform has three main components:
 
-1\) **The MFEV Network Coin blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the MFEV Network Coin platform and ecosystem.
+1\) **The MFEV Network** . The EVM-compatible public blockchain is the decentralized, permissionless backbone of the MFEV Network Coin platform and ecosystem.
 
 2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases.
 
