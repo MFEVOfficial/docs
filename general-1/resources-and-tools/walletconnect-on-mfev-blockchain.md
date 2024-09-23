@@ -1,2 +1,3 @@
 # WalletConnect on MFEV Blockchain
 
+The MFEV platform places a premium on user convenience through the seamless integration of the widely embraced JSON-RPC API. This strategic integration facilitates effortless connectivity between users' MetaMask or any Web3.0 wallets and the MFEV ecosystem. By leveraging the standard JSON-RPC API, users can enjoy a smooth and familiar experience, securely accessing and utilizing their wallets within the MFEV platform. This approach not only emphasizes accessibility but also encourages interoperable interactions, enhancing overall convenience within the ecosystem
