@@ -6,13 +6,7 @@ MFEV Network Coin is a decentralized blockchain-powered platform and technology 
 
 ### The Problem
 
-The currently existing financial system falls way short of the objective of providing the people globally with access to fast, frictionless payments, attractive financial services and passive income opportunities.
-
-This is especially relevant for the developing countries. Hundreds of millions of people there lack access even to the basic banking services, let alone access to more advanced financial opportunities. They also often have to transact using highly unstable fiat currencies, prone to episodes of sudden profound devaluation.
-
-At the same time, even in the poorest countries, the pace of mobile phone adoption has been staggering. In sub-Saharan Africa, more people have access to mobile phones than to clean drinking water.
-
-In addition to this, the rise of blockchain technology and cryptocurrencies has finally created the possibility for potentially anyone on the planet to send and receive funds without the permission of any entity, using currencies that cannot be manipulated.
+Blockchain technology aims to revolutionize traditional systems by replacing centralized authorities with a decentralized Network that fosters trust among users, even those who have no previous connections. At its core, Blockchain seeks to shift from traditional trust mechanisms to a system that enforces integrity through its design. However, applying Blockchain technology in real-world scenarios comes with challenges, notably in transaction speed. Unlike conventional systems such as Visa card payments, which rely on Visa to create and maintain a permanent transaction record, Blockchain operates with a "distributed ledger" shared among multiple participants. This ledger provides a permanent and widely accessible record, enhancing transparency and accountability, as anyone with the necessary technology and internet access can verify the system. Despite its advantages, the decentralized nature of Blockchain can result in slower transaction processing. For instance, early Blockchains like Bitcoin handle about 5 transactions per second, significantly less than Visa's capacity to process over 1,700 transactions per second. Addressing these challenges requires tackling the Blockchain scalability trilemma. This trilemma illustrates the difficulty of balancing decentralization, security, and scalability, with each factor often necessitating compromises.
 
 ### What the crypto industry still lacks?
 
