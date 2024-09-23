@@ -1,17 +1,17 @@
 ---
 description: >-
   Here, you can find the information that can help you navigate the
-  interoperability options that you can use to transfer tokens to and from the
-  MFEV Coin blockchain.
+  interoperability options that you can use to transfer coins to and from the
+  MFEV Network.
 ---
 
 # Interoperability
 
-The MFEV Network Coin team strongly believes in interoperability among public blockchains. No single platform is likely to become fully dominant in the future.
+The MFEV Network team strongly believes in interoperability among public blockchains. No single platform is likely to become fully dominant in the future.
 
 Hence, interoperability solutions enabling transfers between MFEV Coin and other blockchains are vital for the continued growth of the MFEV Coin platform and ecosystem.
 
-The MFEV Network Coin team has been making considerable progress in getting MFEV Coin added by the leading operators. Currently the MFEV Network is connected to other blockchains via the following multichain bridges and value transfer protocols:
+The MFEV Network team has been making considerable progress in getting MFEV Coin added by the leading operators. Currently the MFEV Network is connected to other blockchains via the following multichain bridges and value transfer protocols:
 
 1\) Summary
 
