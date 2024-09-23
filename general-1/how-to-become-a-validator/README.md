@@ -8,7 +8,7 @@ The more communities and users conducting transactions, the more validators will
 
 ### What it means to be a validator?
 
-[Any entity that is holding the MFEV Blockchain token can run a node](https://github.com/MEDIABLOCKAI/validator-setup) that approves transaction in the network and in doing so receive rewards in the form of MFEV Blockchain token (MFEV).
+Any entity that is holding the MFEV Blockchain token can run a node that approves transaction in the network and in doing so receive rewards in the form of MFEV Blockchain token (MFEV).
 
 Validators are running special software that holds a copy of the MFEV Blockchain and validating transactions in the network.
 
@@ -16,7 +16,7 @@ Every 5 seconds, the network groups the latest transactions broadcasted to the s
 
 For this work the validators receive block reward (X per block). A yearly inflation of 5% is distributed between all validators (the block reward is updated to accommodate this functionality).
 
-Validators are contributing their computer resources to maintain the network and need to have some technical knowledge in dealing with hosting this kind of software (see [Running a validator node](https://github.com/MEDIABLOCKAI/validator-setup)) and [participate in the network governance through voting](https://github.com/MEDIABLOCKAI/validator-setup).
+Validators are contributing their computer resources to maintain the network and need to have some technical knowledge in dealing with hosting this kind of software (see Running a validator node) and participate in the network governance through voting.
 
 Validators are the guardians of the network and are in charge of not only maintaining it but also to steer it in its future through the governance mechanism that allows any holder of MFEV Blockchain token to vote on important decisions and upgrades to the network in its development and resource allocation.
 
@@ -40,14 +40,14 @@ Validators are the guardians of the network and are in charge of not only mainta
 
 ### Who can become a validator (Technical requirements)
 
-* See [_Running a validator node_](https://github.com/MEDIABLOCKAI/validator-setup)\_\_
+* See _Running a validator node_\_\_
 
 ### Who shouldn’t become a validator (and what can he still do)
 
 * **Non technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
 * **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPoS (Delegated Proof of Stake) mechanism was born to do.
 
-[You can delegate you MFEV Blockchain token to a validator](https://github.com/MEDIABLOCKAI/validator-setup) of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their MFEV Blockchain token to a validator to earn rewards through the validator.
+You can delegate you MFEV Blockchain token to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their MFEV Blockchain token to a validator to earn rewards through the validator.
 
 ### How to become a validator?
 
