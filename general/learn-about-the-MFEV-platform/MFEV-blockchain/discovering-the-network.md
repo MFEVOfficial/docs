@@ -1,6 +1,6 @@
 # Discovering the Network
 
-The following information will help you discover and connect to the MFEV Network Coin blockchain:
+The following information will help you discover and connect to the MFEV Network:
 
 * Network name: **MFEV Network**
 * Chan Id: 9982

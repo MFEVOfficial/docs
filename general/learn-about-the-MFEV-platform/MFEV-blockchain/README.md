@@ -2,7 +2,7 @@
 
 ## Network Overview and Key Metrics
 
-MFEV Network  is the decentralized EVM-compatible public blockchain that powers the MFEV Network Coin platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of MFEV Network .
+MFEV Network  is the decentralized EVM-compatible public blockchain that powers the MFEV Network platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of MFEV Network .
 
 The MFEV Blockchain uses a variant of  Proof of Distribution (POD) for achieving the consensus is secured by a significant number of independent validators, only one of which is run by the MFEV Network core team.
 
