@@ -13,9 +13,9 @@
     * [Boosting MFEV Blockchain's Scalability](general/learn-about-the-MFEV-platform/MFEV-blockchain/scaling-l2-payments.md)
   * [MFEV Blockchain Coin (MFEV)](general/learn-about-the-mfev-platform/mfev-token.md)
   * [Interoperability](general/learn-about-the-MFEV-platform/interoperability.md)
-  * [MFEV Blockchain Governance and Development](general/learn-about-the-MFEV-platform/MFEV-governance-and-development/README.md)
-    * [MFEV Blockchain Improvement Proposals (FIPs)](general/learn-about-the-MFEV-platform/MFEV-governance-and-development/fips.md)
+  * [MFEV Blockchain Governance and Development](general/learn-about-the-mfev-platform/mfev-governance-and-development.md)
 * [MFEV Blockchain for Business](general/MFEV-for-business.md)
+* [Exchanges,Wallets,On-Ramps and Defi Tools Supporting MFEV](general/exchanges-wallets-on-ramps-and-defi-tools-supporting-mfev.md)
 
 ## Developers <a href="#general" id="general"></a>
 

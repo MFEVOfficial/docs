@@ -13,7 +13,9 @@ Hence, interoperability solutions enabling transfers between MFEV Network Coin a
 
 The MFEV Network Coin team has been making considerable progress in getting MFEV Network Coin added by the leading operators. Currently the MFEV Network Coin blockchain is connected to other blockchains via the following multichain bridges and value transfer protocols:
 
-1\) Summary 2) The Elk Finance value transfer protocol.
+1\) Summary
+
+&#x20;2\) The Elk Finance value transfer protocol.
 
 3\) The Connext bridge (available to users via the xPollinate interface).
 
@@ -27,7 +29,7 @@ It connects MFEV Network Coin to **Ethereum and Binance Smart Chain (BSC)**. Bot
 
 On both bridges, sending tokens from the relevant blockchain to MFEV Network Coin is not subject to any fees or limits. Token withdrawals from MFEV Network Coin incur a **0.05% fee** on the amount bridged. Users transferring funds also need to pay the fees on the destination chain in order to claim their tokens from the bridge contract at the final stage of the transfer.
 
-The bridge can be accessed via the MFEV NetworkFi app. More information on its functioning can be found here.&#x20;
+&#x20;
 
 
 
