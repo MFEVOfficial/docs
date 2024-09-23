@@ -1,6 +1,6 @@
 # MFEV Blockchain Coin (MFEV)
 
-The MFEV Coin is the native currency of the MFEV Network blockchain and platform, just like ETH on Ethereum.
+The MFEV Coin is the native currency of the MFEV Network and platform, just like ETH on Ethereum.
 
 ## MFEV Network utility:
 
