@@ -15,6 +15,6 @@
 
 ### Blockchain explorer
 
-**MFEV Network Coin Explorer** is the official blockchain explorer for MFEV Network Coin. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
+**MFEV Network Coin Explorer** is the official blockchain explorer for MFEV Network. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
 ###

@@ -8,7 +8,7 @@ The more communities and users conducting transactions, the more validators will
 
 ### What it means to be a validator?
 
-Any entity that is holding the MFEV Blockchain token can run a node that approves transaction in the network and in doing so receive rewards in the form of MFEV Blockchain token (MFEV).
+Any entity that is holding the MFEV Blockchain token can run a node that approves transaction in the network and in doing so receive rewards in the form of MFEV Coins (MFEV).
 
 Validators are running special software that holds a copy of the MFEV Blockchain and validating transactions in the network.
 
@@ -18,7 +18,7 @@ For this work the validators receive block reward (X per block). A yearly inflat
 
 Validators are contributing their computer resources to maintain the network and need to have some technical knowledge in dealing with hosting this kind of software (see Running a validator node) and participate in the network governance through voting.
 
-Validators are the guardians of the network and are in charge of not only maintaining it but also to steer it in its future through the governance mechanism that allows any holder of MFEV Blockchain token to vote on important decisions and upgrades to the network in its development and resource allocation.
+Validators are the guardians of the network and are in charge of not only maintaining it but also to steer it in its future through the governance mechanism that allows any holder of MFEV Coins to vote on important decisions and upgrades to the network in its development and resource allocation.
 
 ### Who should become a validator?
 
@@ -47,9 +47,9 @@ Validators are the guardians of the network and are in charge of not only mainta
 * **Non technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
 * **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPoS (Delegated Proof of Stake) mechanism was born to do.
 
-You can delegate you MFEV Blockchain token to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their MFEV Blockchain token to a validator to earn rewards through the validator.
+You can delegate your MFEV Coins to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their MFEV Coins to a validator to earn rewards through the validator.
 
 ### How to become a validator?
 
-* Minimum of 100K Coins staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 100K MFEV Network Coins needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 100K Coins staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 100K MFEV Coins needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.

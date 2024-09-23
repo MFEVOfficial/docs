@@ -1,6 +1,6 @@
 # MFEV Blockchain Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network Coin network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 ![]()
 
@@ -10,7 +10,7 @@ BlockReward contract is calculates the reward amount that validators and delegat
 
 With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
-The bridge is used to transfer the MFEV Network Coin native token between MFEV Network Coin and Ethereum networks.
+The bridge is used to transfer the MFEV Coin between MFEV Network  and Ethereum networks.
 
 ## [Consensus - ](https://testnet.mediablock.ai/address/0xC48b6EAECd49959235dE3DE5C73974079d2Be325)0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2
 
