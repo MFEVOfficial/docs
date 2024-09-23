@@ -1,6 +1,6 @@
 # How to become a validator
 
-The MFEV Blockchain network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
+The MFEV network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
 
 All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the MFEV Blockchain chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
 
@@ -8,7 +8,7 @@ The more communities and users conducting transactions, the more validators will
 
 ### What it means to be a validator?
 
-Any entity that is holding the MFEV Blockchain token can run a node that approves transaction in the network and in doing so receive rewards in the form of MFEV Coins (MFEV).
+Any entity that is holding the MFEV Coins can run a node that approves transaction in the network and in doing so receive rewards in the form of MFEV Coins (MFEV).
 
 Validators are running special software that holds a copy of the MFEV Blockchain and validating transactions in the network.
 
