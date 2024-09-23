@@ -4,7 +4,7 @@ The MFEV Coin is the native currency of the MFEV Network and platform, just like
 
 ## MFEV Network utility:
 
-* **Transaction fees:** Being the native currency on the MFEV Network  blockchain, MFEV Network is required to pay fees to the network in order to approve transactions.
+* **Transaction fees:** Being the native currency on the MFEV Network , MFEV Network is required to pay fees to the network in order to approve transactions.
 * **Validation** Token holders can stake MFEV Coin to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 2 validators.&#x20;
 * **Voting** Validators vote on protocol changes with their staked MFEV Network. Which means validators with higher amounts of MFEV Coin staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any MFEV Network holder can choose one or more validators to delegate any amount of MFEV Network they wish. They receive a share of the MFEV Coin block rewards proportionate to the share of their stake in the total stake, minus the minimum 10% fee paid to the validator(s).
