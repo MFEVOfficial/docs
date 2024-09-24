@@ -32,7 +32,7 @@
   * [WalletConnect on MFEV Blockchain](general-1/resources-and-tools/walletconnect-on-mfev-blockchain.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the MFEV Blockchain testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
+  * [Getting started as on the MFEV Blockchain mainnet](general-1/how-to-become-a-validator/getting-started-as-on-the-mfev.md)
 
 ## Links
 
