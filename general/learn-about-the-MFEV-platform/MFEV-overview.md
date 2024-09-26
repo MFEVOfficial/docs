@@ -1,4 +1,4 @@
-# MFEV Blockchain Overview: vision, strategy and platform components
+# MFEV Blockchain Overview: Vision, Strategy and Platform components
 
 MFEV Network is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
 
@@ -28,9 +28,9 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 ### Platform Components
 
-The MFEV Network  platform has three main components:
+The MFEV Network has three main components:
 
-1\) **The MFEV Network** . The EVM-compatible public blockchain is the decentralized, permissionless backbone of the MFEV Network platform and ecosystem.
+1\) **The MFEV Network** . The EVM-compatible public blockchain is the decentralized, permissionless backbone of the MFEV Network and ecosystem.
 
 2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases.
 
