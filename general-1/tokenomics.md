@@ -8,4 +8,4 @@ The MFEV Blockchain’s Tokenomics framework is designed to support and drive th
 
 &#x20;**Incentives for Early Adopters**: Early adopters receive special incentives, including bonus MFEV Coins and exclusive access to new features and developments. These incentives encourage early participation and support the Network's initial growth phase.
 
-<figure><img src="../.gitbook/assets/pie.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payscan screen shot.png" alt=""><figcaption></figcaption></figure>

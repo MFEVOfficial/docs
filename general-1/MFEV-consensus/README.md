@@ -1,6 +1,6 @@
 # MFEV Blockchain Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(POD) consensus model. POD is a variation of Proof of Distribution consensus. In PoD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(POD) consensus model. POD is a variation of Proof of Distribution consensus. In POD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 Consensus contract is used to manage the list of the network validators and delegators
 
