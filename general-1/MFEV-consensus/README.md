@@ -1,8 +1,6 @@
 # MFEV Blockchain Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(Pod) consensus model. PoDis a variation of Proof of Distribution consensus. In PoD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
-
-![]()
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(POD) consensus model. POD is a variation of Proof of Distribution consensus. In PoD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 Consensus contract is used to manage the list of the network validators and delegators
 
@@ -14,7 +12,7 @@ The bridge is used to transfer the MFEV Coin between MFEV Network  and Ethereum 
 
 ## [Consensus - ](https://testnet.mediablock.ai/address/0xC48b6EAECd49959235dE3DE5C73974079d2Be325)0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2
 
-This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
+This contract is responsible for handling the network POD consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
 The snapshots are taken of pending validators, who are those which staked more than the minimum stake needed to become a network validator. Therefore the contract is also responsible for staking, delegating and withdrawing those funds.
 

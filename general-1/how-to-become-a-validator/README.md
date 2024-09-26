@@ -45,11 +45,11 @@ Validators are the guardians of the network and are in charge of not only mainta
 ### Who shouldn’t become a validator (and what can he still do)
 
 * **Non technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
-* **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPoS (Delegated Proof of Stake) mechanism was born to do.
+* **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the POD mechanism was born to do.
 
 You can delegate your MFEV Coins to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their MFEV Coins to a validator to earn rewards through the validator.
 
 ### How to become a validator?
 
-* Minimum of 100K Coins staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 100K MFEV Coins needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 100K Coins staked or delegated. In a POD blockchain it is required that all the validators have a staking requirement. The stake of 100K MFEV Coins needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.
