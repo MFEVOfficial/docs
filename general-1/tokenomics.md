@@ -7,3 +7,5 @@ The MFEV Blockchain’s Tokenomics framework is designed to support and drive th
 &#x20;**Allocation of Funds**: Funds are allocated towards development, marketing, partnerships, and community building to ensure sustainable growth and innovation. Transparent fund allocation fosters trust and supports long-term success.&#x20;
 
 &#x20;**Incentives for Early Adopters**: Early adopters receive special incentives, including bonus MFEV Coins and exclusive access to new features and developments. These incentives encourage early participation and support the Network's initial growth phase.
+
+<figure><img src="../.gitbook/assets/pie.png" alt=""><figcaption></figcaption></figure>
