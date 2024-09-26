@@ -1,6 +1,6 @@
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a MFEV Network chain validator is to have a stake amount of at least 100,000 MFEV Coin . The stake amount is the sum of staked and delegated MFEV Coin  of the address. **Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
+The basic requirement to become a MFEV Network validator is to have a stake amount of at least 100,000 MFEV Coin . The stake amount is the sum of staked and delegated MFEV Coin  of the address. **Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
 
 ## Stake <a href="#stake" id="stake"></a>
 
