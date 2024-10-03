@@ -1,7 +1,7 @@
 # Network Details
 
 * Network name: **MFEV**
-* ChanId: **9983**
+* Chan ID: **9983**
 * Gas price: **1500000700 gwei**
 * RPC
   * Official RPC: [https://testnet-rpc.mfevscan.com/](https://testnet-rpc.mfevscan.com)​

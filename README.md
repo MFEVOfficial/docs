@@ -10,4 +10,4 @@ description: Welcome to the documentation portal for MFEV Blockchain
 
 Welcome to the go-to portal for in-depth information about the MFEV Blockchain (MFEV) and ecosystem and how to interact with them!
 
-**MFEV Blockchain Docs**. This part is available in the sections below is for anyone who wants to learn more about MFEV Blockchain without going into detail that only developers would usually need to know.
+**MFEV Blockchain Docs**. This part is available in the sections below are for anyone who wants to learn more about MFEV Blockchain without delving into technical details typically required by developers.

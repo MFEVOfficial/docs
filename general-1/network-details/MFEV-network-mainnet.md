@@ -2,13 +2,13 @@
 
 ### General Information
 
-| Block size | Block speed | Gas price       | Patchset | Native Coin | Network ID |
-| ---------- | ----------- | --------------- | -------- | ----------- | ---------- |
-| 20,000,000 | 3 seconds   | 1500000700 GWei |          | MFEV        | 9982       |
+| Block size | Block speed | Gas price       | Native Coin | Network ID |
+| ---------- | ----------- | --------------- | ----------- | ---------- |
+| 20,000,000 | 3 seconds   | 1500000700 GWei | MFEV        | 9982       |
 
-* D: **MFEV Coin (MFEV)**
-* ChanId: **9982**
-* Gas price: 109.999999 **gwei**
+* Network Name: **MFEV**
+* Chain ID: **9982**
+* Gas price: 110 **gwei**
 * RPC
   * Official RPC: [https://rpc.mfevscan.com/](https://rpc.mfevscan.com/)​
 * Explorer: [https://mfevscan.com/](https://mfevscan.com/)​

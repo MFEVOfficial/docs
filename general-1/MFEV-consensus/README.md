@@ -1,12 +1,12 @@
 # MFEV Blockchain Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(POD) consensus model. POD is a variation of Proof of Distribution consensus. In POD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. MFEV Network is using a Proof of  Distribution(POD) consensus model. In POD there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 Consensus contract is used to manage the list of the network validators and delegators
 
-BlockReward contract is calculates the reward amount that validators and delegators will receive on each block validation. The reward size is proportional to validator's stake.
+BlockReward contract calculates the reward amount that validators and delegators will receive on each block validation. The reward size is proportional to validator's stake.
 
-With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
+With Voting contract validators vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
 The bridge is used to transfer the MFEV Coin between MFEV Network  and Ethereum networks.
 
