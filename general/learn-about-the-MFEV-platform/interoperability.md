@@ -25,7 +25,7 @@ The MFEV Network team has been making considerable progress in getting MFEV Coin
 
 6\) The ChainPort bridge.
 
-It connects MFEV Network to **Ethereum and Binance Smart Chain (BSC)**. Both bridges are custodial. The bridge to Ethereum is permissionless, while new tokens need to be added to the BSC bridge.
+The ChainPort bridge connects MFEV Network to **Ethereum and Binance Smart Chain (BSC)**. Both bridges are custodial. The bridge to Ethereum is permissionless, while new tokens need to be added to the BSC bridge.
 
 On both bridges, sending tokens from the relevant blockchain to MFEV Network is not subject to any fees or limits. Token withdrawals from MFEV Network incur a **0.05% fee** on the amount bridged. Users transferring funds also need to pay the fees on the destination chain in order to claim their tokens from the bridge contract at the final stage of the transfer.
 

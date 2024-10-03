@@ -8,7 +8,7 @@ The MFEV Blockchain uses a variant of  Proof of Distribution (POD) to achieve co
 
 Validators are also responsible for the most important type of governance on MFEV Network , namely, adopting the network protocol changes.
 
-The native coin of the network is called MFEV . New MFEV Coin are issued with every added block and are also used to pay for gas, just like ETH on Ethereum.
+The native coin of the network is called MFEV. New MFEV Coin are issued with every added block and are also used to pay for gas, just like ETH on Ethereum.
 
 The MFEV Network is designed to ensure fast block confirmation times and a low cost of transactions. The average block interval on MFEV Network  is around 5 seconds, and it currently costs much less than $0.01 to get a transaction confirmed.
 
